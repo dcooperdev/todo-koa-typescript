@@ -14,7 +14,7 @@ npm install
 
 Compile Typescript
 ```bash
-tsc
+npm run comp-tsc
 ```
 Start the server
 ```bash
