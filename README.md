@@ -1,5 +1,7 @@
 # To do list with Koa and Typescript
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 Example TO-DO list with Koa and Typescript.
 
 ## Installation
